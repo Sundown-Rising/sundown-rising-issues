@@ -2,7 +2,7 @@
 name: Bug report
 about: Fehlerhaftes Skriptverhalten
 title: "[BUG]"
-labels: bug, QoL
+labels: bug
 assignees: ''
 
 ---
