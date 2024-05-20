@@ -2,7 +2,7 @@
 name: Feature request
 about: Neue Funktionen
 title: "[Wunsch] "
-labels: good first issue
+labels: Feature-Request
 assignees: ''
 
 ---

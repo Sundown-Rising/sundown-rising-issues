@@ -2,7 +2,7 @@
 name: Generelle Frage
 about: Für alles was sonst nicht passt
 title: "[Frage]"
-labels: duplicate
+labels: Frage
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Quality of Life Verbesserung
 about: Es funktioniert, aber könnte besser sein.
 title: "[QoL]"
-labels: enhancement
+labels: QoL
 assignees: ''
 
 ---

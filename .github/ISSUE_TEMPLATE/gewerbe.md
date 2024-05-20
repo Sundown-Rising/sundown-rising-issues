@@ -2,7 +2,7 @@
 name: Gewerbe
 about: Falls es um Gewerbeamt geht. Rezepte/Licht/etc
 title: "[Gewerbe]"
-labels: documentation
+labels: Gewerbe
 assignees: ''
 
 ---
