@@ -11,8 +11,9 @@ assignees: ''
 Eine klare Fehler beschreibung.
 Beispiel: Fisch nach Angeln nicht im Inventar
 
-**Nachstellbar**
+**Nachstellbar | Auschließen Client Problemen**
 JA/NEIN
+Wurden Client-Fehler welche durch bspw. den Cache ausgelöst wurden ausgeschlossen (https://discord.com/channels/1123352191751704606/1131142465806675979 )
 Falls Ja, folgende Schritte:
 1. Geh zum Wasser
 2. Nimm eine Angel raus
